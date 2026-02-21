@@ -37,7 +37,7 @@ Bu durum, bankacılık güvenliğinde "güvenli bölgede kalma" stratejisiyle uy
 
 **Kurulum ve Kullanım**
 Repo'yu Klonlayın:
-git clone https://github.com/kullaniciadi/banking-fraud-ai-testing.git
+git clone https://github.com/mcecen/BankingFraudDetection.git
 
 **Gereksinimleri Yükleyin:**
 
